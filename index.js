@@ -3,3 +3,6 @@ function happyHolidays(){
 }
 
 
+function happyHolidaysto(name){
+  return('Happy holidays, + name');
+}
